@@ -45,4 +45,4 @@ def printer(speakers)
   
 end 
 
- 
+ printer(speakers)
