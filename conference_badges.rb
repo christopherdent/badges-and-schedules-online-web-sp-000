@@ -39,10 +39,8 @@ end
 
 def printer(speakers)
   
-  batch_badge_creator(speakers)
-  
-  puts badges
-  
+batch_badge_creator(speakers).each do
+
 end 
 
  printer(speakers)
