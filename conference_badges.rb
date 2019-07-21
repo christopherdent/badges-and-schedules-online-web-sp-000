@@ -42,5 +42,7 @@ def printer(speakers)
 batch_badge_creator(speakers).each do
 
 end 
+end
+
 
  printer(speakers)
